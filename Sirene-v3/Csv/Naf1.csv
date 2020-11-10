@@ -1,0 +1,225 @@
+CodeNaf1;LibelléNaf1
+01.1;Culture
+01.2;Elevage
+01.3;Culture et élevage associés
+01.4;Services annexes à l'agriculture et aménagement des paysages
+01.5;Chasse
+02.0;Sylviculture, exploitation forestière, services annexes
+05.0;Pêche, aquaculture, services annexes
+10.1;Extraction et agglomération de la houille
+10.2;Extraction et agglomération du lignite
+10.3;Extraction et agglomération de la tourbe
+11.1;Extraction d'hydrocarbures
+11.2;Services annexes à l'extraction d'hydrocarbures
+12.0;Extraction de minerais d'uranium
+13.1;Extraction de minerais de fer
+13.2;Extraction de minerais de métaux non ferreux
+14.1;Extraction de pierres
+14.2;Extraction de sables et d'argiles
+14.3;Extraction de minéraux pour l'industrie chimique et d'engrais naturels
+14.4;Production de sel
+14.5;Activités extractives n.c.a.
+15.1;Industrie des viandes
+15.2;Industrie du poisson
+15.3;Industrie des fruits et légumes
+15.4;Industrie des corps gras
+15.5;Industrie laitière
+15.6;"Travail des grains ; fabrication de produits amylacés"
+15.7;Fabrication d'aliments pour animaux
+15.8;Autres industries alimentaires
+15.9;Industrie des boissons
+16.0;Industrie du tabac
+17.1;Filature
+17.2;Tissage
+17.3;Ennoblissement textile
+17.4;Fabrication d'articles textiles
+17.5;Autres industries textiles
+17.6;Fabrication d'étoffes à maille
+17.7;Fabrication d'articles à maille
+18.1;Fabrication de vêtements en cuir
+18.2;Fabrication de vêtements en textile
+18.3;Industrie des fourrures
+19.1;Apprêt et tannage des cuirs
+19.2;Fabrication d'articles de voyage et de maroquinerie
+19.3;Fabrication de chaussures
+20.1;Sciage, rabotage, imprégnation du bois
+20.2;Fabrication de panneaux de bois
+20.3;Fabrication de charpentes et de menuiseries
+20.4;Fabrication d'emballages en bois
+20.5;Fabrication d'objets divers en bois, liège ou vannerie
+21.1;Fabrication de pâte à papier, de papier et de carton
+21.2;Fabrication d'articles en papier ou en carton
+22.1;Edition
+22.2;Imprimerie
+22.3;Reproduction d'enregistrements
+23.1;Cokéfaction
+23.2;Raffinage de pétrole
+23.3;Elaboration et transformation de matières nucléaires
+24.1;Industrie chimique de base
+24.2;Fabrication de produits agrochimiques
+24.3;Fabrication de peintures et vernis
+24.4;Industrie pharmaceutique
+24.5;Fabrication de savons, de parfums et de produits d'entretien
+24.6;Fabrication d'autres produits chimiques
+24.7;Fabrication de fibres artificielles ou synthétiques
+25.1;Industrie du caoutchouc
+25.2;Transformation des matières plastiques
+26.1;Fabrication de verre et d'articles en verre
+26.2;Fabrication de produits céramiques
+26.3;Fabrication de carreaux en céramique
+26.4;Fabrication de tuiles et briques en terre cuite
+26.5;Fabrication de ciment, chaux et plâtre
+26.6;Fabrication d'ouvrages en béton ou en plâtre
+26.7;Taille, façonnage et finissage de pierres ornementales et de construction
+26.8;Fabrication de produits minéraux divers
+27.1;Sidérurgie
+27.2;Fabrication de tubes
+27.3;Autres opérations de première transformation de l'acier
+27.4;Production de métaux non ferreux
+27.5;Fonderie
+28.1;Fabrication d'éléments en métal pour la construction
+28.2;Fabrication de réservoirs métalliques et de chaudières pour le chauffage central
+28.3;Chaudronnerie
+28.4;"Forge, emboutissage, estampage ; métallurgie des poudres"
+28.5;"Traitement des métaux ; mécanique générale"
+28.6;Fabrication de coutellerie, d'outillage et de quincaillerie
+28.7;Fabrication d'autres ouvrages en métaux
+29.1;Fabrication d'équipements mécaniques
+29.2;Fabrication de machines d'usage général
+29.3;Fabrication de machines agricoles
+29.4;Fabrication de machines-outils
+29.5;Fabrication d'autres machines d'usage spécifique
+29.6;Fabrication d'armes et de munitions
+29.7;Fabrication d'appareils domestiques
+30.0;Fabrication de machines de bureau et de matériel informatique
+31.1;Fabrication de moteurs, génératrices et transformateurs électriques
+31.2;Fabrication de matériel de distribution et de commande électrique
+31.3;Fabrication de fils et câbles isolés
+31.4;Fabrication d'accumulateurs et de piles électriques
+31.5;Fabrication de lampes et d'appareils d'éclairage
+31.6;Fabrication d'autres matériels électriques
+32.1;Fabrication de composants électroniques
+32.2;Fabrication d'appareils d'émission et de transmission
+32.3;Fabrication d'appareils de réception, enregistrement ou reproduction du son et de l'image
+33.1;Fabrication de matériel médico-chirurgical et d'orthopédie
+33.2;Fabrication d'instruments de mesure et de contrôle
+33.3;Fabrication d'équipements de contrôle des processus industriels
+33.4;Fabrication de matériels optique et photographique
+33.5;Horlogerie
+34.1;Construction de véhicules automobiles
+34.2;Fabrication de carrosseries et remorques
+34.3;Fabrication d'équipements automobiles
+35.1;Construction navale
+35.2;Construction de matériel ferroviaire roulant
+35.3;Construction aéronautique et spatiale
+35.4;Fabrication de motocycles et de bicyclettes
+35.5;Fabrication de matériels de transport n.c.a.
+36.1;Fabrication de meubles
+36.2;Bijouterie
+36.3;Fabrication d'instruments de musique
+36.4;Fabrication d'articles de sport
+36.5;Fabrication de jeux et jouets
+36.6;Autres industries diverses
+37.1;Récupération de matières métalliques recyclables
+37.2;Récupération de matières non métalliques recyclables
+40.1;Production et distribution d'électricité
+40.2;Production et distribution de combustibles gazeux
+40.3;Production et distribution de chaleur
+41.0;Captage, traitement et distribution d'eau
+45.1;Préparation des sites
+45.2;Construction d'ouvrages de bâtiment ou de génie civil
+45.3;Travaux d'installation
+45.4;Travaux de finition
+45.5;Location avec opérateur de matériel de construction
+50.1;Commerce de véhicules automobiles
+50.2;Entretien et réparation de véhicules automobiles
+50.3;Commerce d'équipements automobiles
+50.4;Commerce et réparation de motocycles
+50.5;Commerce de détail de carburants
+51.1;Intermédiaires du commerce de gros
+51.2;Commerce de gros de produits agricoles bruts
+51.3;Commerce de gros de produits alimentaires
+51.4;Commerce de gros de biens de consommation non alimentaires
+51.5;Commerce de gros de produits intermédiaires non agricoles
+51.8;Commerce de gros d'équipements industriels
+51.9;Autres commerces de gros
+52.1;Commerce de détail en magasin non spécialisé
+52.2;Commerce de détail alimentaire en magasin spécialisé
+52.3;Commerce de détail de produits pharmaceutiques et de parfumerie
+52.4;Autres commerces de détail en magasin spécialisé
+52.5;Commerce de détail de biens d'occasion
+52.6;Commerce de détail hors magasin
+52.7;Réparation d'articles personnels et domestiques
+55.1;Hôtels
+55.2;Autres moyens d'hébergement de courte durée
+55.3;Restaurants
+55.4;Cafés
+55.5;Cantines et traiteurs
+60.1;Transports ferroviaires
+60.2;Transports urbains et routiers
+60.3;Transports par conduites
+61.1;Transports maritimes et côtiers
+61.2;Transports fluviaux
+62.1;Transports aériens réguliers
+62.2;Transports aériens non réguliers
+62.3;Transports spatiaux
+63.1;Manutention et entreposage
+63.2;Gestion d'infrastructures de transports
+63.3;Agences de voyage
+63.4;Organisation du transport de fret
+64.1;Activités de poste et de courrier
+64.2;Télécommunications
+65.1;Intermédiation monétaire
+65.2;Autres intermédiations financières
+66.0;Assurance
+67.1;Auxiliaires financiers
+67.2;Auxiliaires d'assurance
+70.1;Activités immobilières pour compte propre
+70.2;Location de biens immobiliers
+70.3;Activités immobilières pour compte de tiers
+71.1;Location de véhicules automobiles
+71.2;Location d'autres matériels de transport
+71.3;Location de machines et équipements
+71.4;Location de biens personnels et domestiques
+72.1;Conseil en systèmes informatiques
+72.2;Réalisation de logiciels
+72.3;Traitement de données
+72.4;Activités de banques de données
+72.5;Entretien et réparation de machines de bureau et de matériel informatique
+72.6;Autres activités rattachées à l'informatique
+73.1;Recherche-développement en sciences physiques et naturelles
+73.2;Recherche-développement en sciences humaines et sociales
+74.1;Activités juridiques, comptables et de conseil de gestion
+74.2;Activités d'architecture et d'ingénierie
+74.3;Activités de contrôle et analyses techniques
+74.4;Publicité
+74.5;Sélection et fourniture de personnel
+74.6;Enquêtes et sécurité
+74.7;Activités de nettoyage
+74.8;Services divers fournis principalement aux entreprises
+75.1;Administration générale, économique et sociale
+75.2;Services de prérogative publique
+75.3;Sécurité sociale obligatoire
+80.1;Enseignement primaire
+80.2;Enseignement secondaire
+80.3;Enseignement supérieur
+80.4;Formation permanente et autres activités d'enseignement
+85.1;Activités pour la santé humaine
+85.2;Activités vétérinaires
+85.3;Action sociale
+90.0;Assainissement, voirie et gestion des déchets
+91.1;Organisations économiques
+91.2;Syndicats de salariés
+91.3;Autres organisations associatives
+92.1;Activités cinématographiques et vidéo
+92.2;Activités de radio et de télévision
+92.3;Autres activités artistiques et de spectacle
+92.4;Agences de presse
+92.5;Autres activités culturelles
+92.6;Activités liées au sport
+92.7;Activités récréatives
+93.0;Services personnels
+95.0;Activités des ménages en tant qu'employeur de personnel domestique
+96.0;Activités indifférenciées des ménages en tant que producteurs de biens pour usage propre
+97.0;Activités indifférenciées des ménages en tant que producteurs de services pour usage propre
+99.0;Activités extra-territoriales

@@ -1,0 +1,1 @@
+LOAD DATA LOCAL INFILE  'D:\\GDrive\\Documents\\Sirene\\Sirene-v3\\TrancheEffectif.csv' INTO TABLE effectifs CHARACTER SET 'utf8' FIELDS TERMINATED BY ',' LINES TERMINATED BY '\r\n' IGNORE 1 LINES;

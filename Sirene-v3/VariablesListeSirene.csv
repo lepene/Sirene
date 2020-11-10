@@ -1,0 +1,78 @@
+"Tableau récapitulatif des variables d’une liste constituée sur sirene.fr"
+"Nom de la variable";"Libellé de la variable";"Longueur";"Type de représentation";"Ordre";
+"activitePrincipaleEtablissement";"Activité principale de l'établissement";6;"Liste de codes";74;
+"activitePrincipaleRegistreMetiersEtablissement";"Activité exercée par l’artisan inscrit au registre des métiers";6;"Liste de codes";8;
+"activitePrincipaleUniteLegale";"Activité principale de l’unité légale";6;"Liste de codes";30;
+"anneeCategorieEntreprise";"Année de validité de la catégorie d’entreprise";4;"Date";40;
+"anneeEffectifsEtablissement";"Année de validité de la tranche d’effectif salarié de l’établissement";4;"Date";7;
+"anneeEffectifsUniteLegale";"Année de validité de la tranche d’effectif salarié de l’unité légale";4;"Date";36;
+"caractereEmployeurEtablissement";"Caractère employeur de l’établissement";1;"Liste de codes";76;
+"caractereEmployeurUniteLegale";"Caractère employeur de l’unité légale";1;"Liste de codes";34;
+"categorieEntreprise";"Catégorie à laquelle appartient l’entreprise";3;"Liste de codes";39;
+"categorieJuridiqueUniteLegale";"Catégorie juridique de l’unité légale";4;"Liste de codes";15;
+"codeCedex2Etablissement";"Code cedex de l’adresse secondaire";9;"Texte";65;
+"codeCedexEtablissement";"Code cedex";9;"Texte";51;
+"codeCommune2Etablissement";"Code commune de l’adresse secondaire";5;"Liste de codes";64;
+"codeCommuneEtablissement";"Code commune de l’établissement";5;"Liste de codes";50;
+"codePaysEtranger2Etablissement";"Code pays pour un établissement situé à l’étranger";5;"Liste de codes";67;
+"codePaysEtrangerEtablissement";"Code pays de l’adresse secondaire pour un établissement situé à l’étranger";5;"Liste de codes";53;
+"codePostal2Etablissement";"Code postal de l’adresse secondaire";5;"Texte";60;
+"codePostalEtablissement";"Code postal";5;"Texte";46
+"complementAdresse2Etablissement";"Complément d’adresse secondaire";38;"Texte";55
+"complementAdresseEtablissement";"Complément d’adresse";38;"Texte";41
+"dateCreationEtablissement";"Date de création de l’établissement";10;"Date";5
+"dateCreationUniteLegale";"Date de création de l'unité légale";10;"Date";14
+"dateDernierTraitementEtablissement";"Date du dernier traitement de l’établissement dans le répertoire Sirene";10;"Date";9
+"dateDernierTraitementUniteLegale";"Date du dernier traitement de l’unité légale dans le répertoire Sirene";10;"Date";38
+"denominationUniteLegale";"Dénomination de l’unité légale";120;"Texte";16
+"denominationUsuelle1UniteLegale";"Dénomination usuelle de l’unité légale";70;"Texte";18
+"denominationUsuelle2UniteLegale";"Dénomination usuelle de l’unité légale – deuxième champ";70;"Texte";19
+"denominationUsuelle3UniteLegale";"Dénomination usuelle de l’unité légale – troisième champ";70;"Texte";20
+"denominationUsuelleEtablissement";"Dénomination usuelle de l’établissement";100;"Texte";73
+"distributionSpeciale2Etablissement";"Distribution spéciale de l’adresse secondaire de l’établissement";26;"Texte";63
+"distributionSpecialeEtablissement";"Distribution spéciale de l’établissement";26;"Texte";49
+"economieSocialeSolidaireUniteLegale";"Appartenance au champ de l’économie sociale et solidaire";1;"Liste de codes";33
+"enseigne1Etablissement";"Première ligne d’enseigne de l’établissement";50;"Texte";70
+"enseigne2Etablissement";"Deuxième ligne d’enseigne de l’établissement";50;"Texte";71
+"enseigne3Etablissement";"Troisième ligne d’enseigne de l’établissement";50;"Texte";72
+"etablissementSiege";"Qualité de siège ou non de l’établissement";5;"Texte";10
+"etatAdministratifEtablissement";"État administratif de l’établissement";1;"Liste de codes";69
+"etatAdministratifUniteLegale";"État administratif de l’unité légale";1;"Liste de codes";11
+"identifiantAssociationUniteLegale";"Numéro au Répertoire National des Associations";10;"Texte";32
+"indiceRepetition2Etablissement";"Indice de répétition dans la voie pour l’adresse secondaire";1;"Texte";57
+"indiceRepetitionEtablissement";"Indice de répétition dans la voie";1;"Texte";43
+"libelleCedex2Etablissement";"Libellé du code cedex de l’adresse secondaire";100;"Texte";66
+"libelleCedexEtablissement";"Libellé du code cedex";100;"Texte";52
+"libelleCommune2Etablissement";"Libellé de la commune de l’adresse secondaire";100;"Texte";61
+"libelleCommuneEtablissement";"Libellé de la commune";100;"Texte";47
+"libelleCommuneEtranger2Etablissement";"Libellé de la commune de l’adresse secondaire pour un établissement situé à l’étranger";100;"Texte";62
+"libelleCommuneEtrangerEtablissement";"Libellé de la commune pour un établissement situé à l’étranger";100;"Texte";48
+"libellePaysEtranger2Etablissement";"Libellé du pays de l’adresse secondaire pour un établissement situé à l’étranger";100;"Texte";68
+"libellePaysEtrangerEtablissement";"Libellé du pays pour un établissement situé à l’étranger";100;"Texte";54
+"libelleVoie2Etablissement";"Libellé de voie de l’adresse secondaire";100;"Texte";59
+"libelleVoieEtablissement";"Libellé de voie";100;"Texte";45
+"nic";"Numéro interne de classement de l'établissement";5;"Texte";2
+"nicSiegeUniteLegale";"Numéro interne de classement (Nic) de l’unité légale";5;"Texte";37
+"nomenclatureActivitePrincipaleEtablissement";"Nomenclature d’activité de la variable activitePrincipaleEtablissement";8;"Liste de codes";75
+"nomenclatureActivitePrincipaleUniteLegale";"Nomenclature d’activité de la variable activitePrincipaleUniteLegale";8;"Liste de codes";31
+"nomUniteLegale";"Nom de naissance de la personnes physique";100;"Texte";22
+"nomUsageUniteLegale";"Nom d’usage de la personne physique";100;"Texte";23
+"numeroVoie2Etablissement";"Numéro de la voie de l’adresse secondaire";4;"Numérique";56
+"numeroVoieEtablissement";"Numéro de voie";4;"Numérique";42
+"prenom1UniteLegale";"Premier prénom déclaré pour un personne physique";20;"Texte";24
+"prenom2UniteLegale";"Deuxième prénom déclaré pour un personne physique";20;"Texte";25
+"prenom3UniteLegale";"Troisième prénom déclaré pour un personne physique";20;"Texte";26
+"prenom4UniteLegale";"Quatrième prénom déclaré pour un personne physique";20;"Texte";27
+"prenomUsuelUniteLegale";"Prénom usuel de la personne physique";20;"Texte";28
+"pseudonymeUniteLegale";"Pseudonyme de la personne physique";100;"Texte";29
+"sexeUniteLegale";"Caractère féminin ou masculin de la personne physique";1;"Liste de codes";21
+"sigleUniteLegale";"Sigle de l’unité légale";20;"Texte";17
+"siren";"Numéro Siren";9;"Texte";1
+"siret";"Numéro Siret";14;"Texte";3
+"statutDiffusionEtablissement";"Statut de diffusion de l’établissement";1;"Liste de codes";4
+"statutDiffusionUniteLegale";"Statut de diffusion de l’unité légale";1;"Liste de codes";12
+"trancheEffectifsEtablissement";"Tranche d’effectif salarié de l’établissement";2;"Liste de codes";6
+"trancheEffectifsUniteLegale";"Tranche d’effectif salarié de l’unité légale";2;"Liste de codes";35
+"typeVoie2Etablissement";"Type de voie de l’adresse secondaire";4;"Liste de codes";58
+"typeVoieEtablissement";"Type de voie";4;"Liste de codes";44
+"unitePurgeeUniteLegale";"Unité légale purgée";4;"Liste de codes";13
